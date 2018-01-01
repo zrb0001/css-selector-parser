@@ -1,0 +1,23 @@
+{
+  "name": "css-selector-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testEnvironmentOptions": {
+      "url": "file:///C:/Projects/CSS-Selector-Parser/test/test.html"
+    }
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  },
+  "dependencies": {
+    "typescript": "^2.6.2"
+  }
+}
